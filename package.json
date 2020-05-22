@@ -68,5 +68,6 @@
       "prettier --write",
       "git add"
     ]
-  }
+  },
+  "dummy": "01"
 }
