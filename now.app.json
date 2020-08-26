@@ -1,6 +1,12 @@
 {
   "public": true,
   "version": 2,
+  "build": {
+    "env": {
+      "FORCE_BUILD_IN_REGION": "iad1",
+      "NOW_DEBUG": "1"
+    }
+  },
   "builds": [
     {
       "src": "packages/web/dist/**",
