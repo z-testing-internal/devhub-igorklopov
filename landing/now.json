@@ -12,5 +12,9 @@
       "src": "next.config.js",
       "use": "@now/next"
     }
-  ]
+  ],
+  "github": {
+    "enabled": false,
+    "autoAlias": false
+  }
 }

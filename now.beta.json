@@ -29,5 +29,9 @@
         "Location": "/"
       }
     }
-  ]
+  ],
+  "github": {
+    "enabled": false,
+    "autoAlias": false
+  }
 }
